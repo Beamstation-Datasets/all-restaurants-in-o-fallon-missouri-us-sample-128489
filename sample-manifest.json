@@ -1,12 +1,12 @@
 {
-  "export_job_id": "84c77713-01d3-48a0-9a71-cfba9601ffde",
+  "export_job_id": "d0afa14a-0354-49af-bcca-a030af0332d1",
   "id_short": 128489,
-  "published_at": "2026-04-10T19:10:37Z",
+  "published_at": "2026-04-19T19:26:32Z",
   "repo_name": "all-restaurants-in-o-fallon-missouri-us-sample-128489",
   "sample_asset_name": "beamstation_128489_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/128489/beamstation_128489_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "9e60389919738d25b2cc0af514f28a5a7c45c52bee8275719e168c736b404c2c",
-  "sample_size_bytes": 84150,
-  "total_records": 185
+  "sample_records": 16,
+  "sample_sha256": "442fd171c822a86389df0e956b355c912a3ad80d72b1a7ef83746ea5e9dfff1a",
+  "sample_size_bytes": 74729,
+  "total_records": 162
 }
