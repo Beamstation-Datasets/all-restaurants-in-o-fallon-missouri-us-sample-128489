@@ -1,6 +1,6 @@
 # All Restaurants in O'Fallon, Missouri, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `128489` |
 | Location | O'Fallon |
 | Category | Restaurants |
-| Full dataset size | 145 records |
-| Free sample size | 14 records (9.66%) |
-| Last export | 2026-04-23T09:25:10.392810+00:00 |
+| Full dataset size | 190 records |
+| Free sample size | 19 records (10.0%) |
+| Last export | 2026-04-30T09:27:23.885291+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-o-fallon-missouri-us-sample-128489/releases/download/sample-latest/beamstation_128489_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
